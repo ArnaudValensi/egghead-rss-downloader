@@ -2,3 +2,7 @@ node_modules
 cookies.txt
 list.txt
 react-transition.xml
+.DS_Store
+course_feed.xml
+course_feed
+videos

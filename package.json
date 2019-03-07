@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "child-process-promise": "^2.2.1",
+    "sanitize-filename": "^1.6.1",
     "xml2js": "^0.4.19"
   }
 }
