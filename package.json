@@ -1,0 +1,9 @@
+{
+  "name": "ehdownloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
