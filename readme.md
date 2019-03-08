@@ -1,4 +1,4 @@
-# Egghead RSS Downloader
+# Egghead RSS Video Downloader
 
 A little script to download egghead's videos from course RSS file.
 The RSS files are only available for pro accounts.
